@@ -1,4 +1,5 @@
 # internsavy_project
+## Mall Customer Segmentation
 
 Overview
 This customer segmentation project aims to identify the best customers in a mall by analyzing their demographic and spending data.
