@@ -1,21 +1,21 @@
 # internsavy_project
 ## Mall Customer Segmentation
 
-Overview
+# Overview
 This customer segmentation project aims to identify the best customers in a mall by analyzing their demographic and spending data.
 The goal is to provide insights to the marketing team and develop effective strategies to target and engage these customers.
 
-Dataset
+# Dataset
 Dataset is from Kaggle
 
-Objectives
+# Objectives
 The main objectives of this project are:
 
 1.Understand the general distribution of customers based on age, income, and spending score.
 2.Segment customers based on their age, income, and spending score.
 3.Identify the target customers who are most likely to be easily converted and develop strategies to attract and retain them.
 
-Dependencies
+# Dependencies
 Specify any dependencies or libraries used in the project, such as:
 
 Python 3.7
@@ -24,7 +24,7 @@ NumPy
 Matplotlib
 Seaborn
 
-Conclusion
+# Conclusion
 1.Marketing cheaper items to women to see if they purchase more frequently or more volume.
 
 2.Marketing more to younger women because their spending score tends to be higher.
